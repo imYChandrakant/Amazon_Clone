@@ -31,7 +31,7 @@ body {
 }
 
 .logo {
-    background-image: url("/Assest/Images/amazon_logo.png");
+    background-image: url("Assest/Images/amazon_logo.png");
     height: 50px;
     width: 100px;
     background-size: cover;
@@ -250,7 +250,7 @@ select {
 }
 
 .hero-section {
-    background-image: url('/Assest/Images/amazon-hero2.jpg');
+    background-image: url('Assest/Images/amazon-hero2.jpg');
     height: 600px;
     width: 100%;
     background-size: cover;
@@ -573,7 +573,7 @@ select {
 }
 
 .footer-logo {
-    background-image: url("/Assest/Images/amazon_logo.png");
+    background-image: url("Assest/Images/amazon_logo.png");
     width: 100px;
     height: 40px;
     background-size: cover;
